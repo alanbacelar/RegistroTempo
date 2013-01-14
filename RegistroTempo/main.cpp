@@ -9,16 +9,5 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 
-//    QTime *tempo = new QTime();
-//    tempo->start();
-
-//    for(int i = 0; i<10000; ++i)
-//    {
-//        qDebug() << i;
-//    }
-
-//    qDebug() << tempo->toString();
-//    tempo->elapsed();
-
     return a.exec();
 }
