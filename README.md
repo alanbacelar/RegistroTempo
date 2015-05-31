@@ -1,4 +1,4 @@
-estudo_qt
+RegistroTempo
 =========
 
-Estudo QT/C++
+A QT application to register time spent of PolibrásNet's Users.
